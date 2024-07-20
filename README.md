@@ -1,3 +1,12 @@
+# Weather Update
+
+<img width="1100" alt="SS PROJECT" src="src/assets/Screenshot 2024-07-10 141015.png">
+<hr>
+
+# Features
+<ul><li>Updates weather of different locations.</li></ul>
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
