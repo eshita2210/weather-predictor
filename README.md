@@ -1,6 +1,6 @@
 # Weather Update
 
-<img width="1100" alt="SS PROJECT" src="src/assets/Screenshot 2024-07-10 141015.png">
+<img width="1100" alt="SS PROJECT" src="weather predictor ss.png">
 <hr>
 
 # Features
